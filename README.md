@@ -71,7 +71,7 @@ This project focuses on understanding digital literacy and its importance in tod
 
 ## 📄 Project Report
 - Final report of the project is included:
-- `Report.pdf`
+- `Report(2).pdf`
 
 ---
 
