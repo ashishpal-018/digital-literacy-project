@@ -13,13 +13,13 @@ This project focuses on understanding digital literacy and its importance in tod
 
 ## 📂 Project Structure
 
-### 🟦 Task 1 – Infographic
+### 🟦 task-1-presentation
 - Created a digital infographic on **Digital Literacy for Students** using Canva  
 - File: `task-1/infographic.png`
 
 ---
 
-### 🟦 Task 2 – Digital Portfolio
+### 🟦 task-2-portfolio
 - Created and updated professional profiles  
 - Platforms:
   - LinkedIn  
@@ -31,7 +31,7 @@ This project focuses on understanding digital literacy and its importance in tod
 
 ---
 
-### 🟦 Task 3 – Coding & Google Forms
+### 🟦 task-3-platforms
 - Practiced coding on HackerRank and solved beginner problems  
 - Earned **Problem Solving (Basic) certification**  
 - Created a Google Form quiz on digital literacy  
@@ -47,7 +47,7 @@ This project focuses on understanding digital literacy and its importance in tod
 
 ---
 
-### 🟦 Task 4 – Email Etiquette
+### 🟦task-4-email-etiquette
 - Wrote two professional emails:
   - Assignment extension request  
   - Internship application  
@@ -59,7 +59,7 @@ This project focuses on understanding digital literacy and its importance in tod
 
 ---
 
-### 🟦 Task 5 – Cybercrime Awareness
+### 🟦 task-5-cybercrime
 - Studied phishing as a cybercrime case  
 - Created a prevention checklist for online safety  
 
